@@ -28,6 +28,9 @@ The analysis was performed entirely in Microsoft Excel using Pivot Tables, Pivot
 - Pivot Charts
 - Dashboard Design
 
+## Dashboard
+![Hotel Dashboard](Hotel Dashboard.png)
+
 ## Key Insights
 - Guest satisfaction remained relatively stable between 3.3 and 3.8 throughout 2020–2022.										
 - Nearly half of guests (47%) are Promoters.					
